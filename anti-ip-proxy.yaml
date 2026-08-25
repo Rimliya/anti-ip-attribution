@@ -1,0 +1,50 @@
+payload:
+  # ==========================================
+  # 哔哩哔哩 (Bilibili)
+  # ==========================================
+  - IP-CIDR,203.107.1.0/24
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN,api.bilibili.com
+  - DOMAIN,api.live.bilibili.com
+  - DOMAIN,api.vc.bilibili.com
+  - DOMAIN,app.bilibili.com
+
+  # ==========================================
+  # 抖音 (Douyin)
+  # ==========================================
+  - DOMAIN,douyin.com
+  - DOMAIN,www.douyin.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,aweme.snssdk.com
+
+  # ==========================================
+  # 小黑盒 (Heybox)
+  # ==========================================
+  - DOMAIN-SUFFIX,api.xiaoheihe.cn
+  - DOMAIN-SUFFIX,xiaoheihe.cn
+
+  # ==========================================
+  # 小红书 (Xiaohongshu)
+  # ==========================================
+  - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-KEYWORD,xiaohongshu
+
+  # ==========================================
+  # 酷安 (Coolapk)
+  # ==========================================
+  - DOMAIN,api.coolapk.com
+  - DOMAIN-SUFFIX,coolapk.com
+
+  # ==========================================
+  # 贴吧 (Baidu Tieba)
+  # ==========================================
+  - DOMAIN,tiebac.baidu.com
+  - DOMAIN,c.tieba.baidu.com
+  - DOMAIN,tieba.baidu.com
+  - DOMAIN,tbmsg.baidu.com
+  - DOMAIN,tb5.bdstatic.com
+  - DOMAIN,fclog.baidu.com
+  - DOMAIN,gsp0.baidu.com
+  - DOMAIN,hm.baidu.com
